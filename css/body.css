@@ -15,8 +15,8 @@
   .column.left {
     padding-left:25px;
     padding-right:25px;
-    padding-top:8px;
-    padding-bottom:8px;
+    padding-top:5px;
+    padding-bottom:5px;
     
   }
   .column.leftl {
@@ -31,9 +31,9 @@
   .column.middle {
     padding-left:25px;
     padding-right:25px;
-    padding-top:8px;
-    padding-bottom:8px;}
-    
+    padding-top:5px;
+    padding-bottom:5px;}
+
   .column.middlem {
     width: 62%;
     padding-right:130px;
