@@ -1,34 +1,10 @@
-#banner{width:100%;background-color:#294b6a;padding-top:15px;padding-bottom:20px;background-size: 100%;}
+#banner{width:100%;background-color:#294b6a;padding-top:15px;padding-bottom:28px;background-size: 100%;}
 #banner>h1{font-size:6em;font-weight:90;font-variant-caps:small-caps;color:#ffffff;text-align:left;
-    text-indent: 60px;}
+    text-indent: 58px;}
 #banner>h1,
-#banner>h2{width:80%;text-align:left;margin:0 auto 0 auto;color:#ffffff;padding:0; text-indent: 60px;}
+#banner>h2{width:80%;text-align:left;margin:0 auto 0 auto;color:#ffffff;padding:0; text-indent: 58px;}
 #banner>h2{font-size:2em;font-weight:100}.logo{float:left;top:5px;position:absolute}
 #banner>img{width:160px;float:right;margin-inline: 18px;}
 #img-tx{left:15px;top:170px;height:60px}
 
-@media (min-width: 0px) and (max-width:768px) {
-    .div1{
-        width: 100px;
-        height: 100px;
-        background-color: red;
-    }
-}
 
-/* 中等屏幕（桌面显示器，大于等于 992px） */
-@media (min-width: 768px) and (max-width:992px){
-    .div1{
-        width: 300px;
-        height: 300px;
-        background-color: blue;
-    }
-}
-
-/* 大屏幕（大桌面显示器，大于等于 1200px） */
-@media (min-width: 992px) {
-    .div1{
-        width: 500px;
-        height: 500px;
-        background-color: aqua;
-    }
-}
