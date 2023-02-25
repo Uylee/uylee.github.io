@@ -25,7 +25,7 @@
   }
   .column.leftl {
     width: 38%;
-    padding-left: 130px;
+    padding-left: 133px;
     background-color: rgb(255, 255, 255);
     background-clip:content-box;
     
@@ -41,7 +41,7 @@
 
   .column.middlem {
     width: 62%;
-    padding-right:130px;
+    padding-right:133px;
     background-color: rgb(255, 255, 255);
     background-clip:content-box;
   }
