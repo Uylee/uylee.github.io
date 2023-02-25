@@ -4,6 +4,7 @@
   
   body {
     margin: 0;
+    background-color:#f7f7f7 ;
   }
   .column {
     float: left;
@@ -12,14 +13,32 @@
   
   /* 左右两侧宽度 */
   .column.left {
+    padding-left:25px;
+    padding-right:25px;
+    padding-top:8px;
+    padding-bottom:8px;
+    
+  }
+  .column.leftl {
     width: 38%;
-    padding-left: 135px;
+    padding-left: 130px;
+    background-color: rgb(255, 255, 255);
+    background-clip:content-box;
+    
   }
   
   /* 中间区域宽度 */
   .column.middle {
+    padding-left:25px;
+    padding-right:25px;
+    padding-top:8px;
+    padding-bottom:8px;}
+    
+  .column.middlem {
     width: 62%;
-    padding-right: 135px;
+    padding-right:130px;
+    background-color: rgb(255, 255, 255);
+    background-clip:content-box;
   }
 
 .button_1{
@@ -36,5 +55,5 @@
 
 .lefttext{
   font-family:"Calibri";
-  font-size: 17px;
+  font-size: 15px;
 }
